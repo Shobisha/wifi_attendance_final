@@ -1,5 +1,5 @@
 .blogSection1 {
-  background-image: url(../public/Images/Banner-wifi-new.jpg);
+  background-image: url("/public/images/Banner-wifi-new.jpg");
   background-repeat: no-repeat;
   height: 300px;
   width: 100%;
