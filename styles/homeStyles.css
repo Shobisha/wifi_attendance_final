@@ -1184,7 +1184,7 @@ ul#footer-list2 li:nth-child(n + 2) {
 .wrapper-s-p {
 }
 .parallax-window-s-p {
-  background-image: url("../public/images/landing20.jpg");
+  background-image: url("/public/images/landing20.jpg");
   background-attachment: fixed;
   width: 100%;
   background-size: cover;
