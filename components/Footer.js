@@ -164,7 +164,7 @@ const Footer = () => {
                             id="subscribe_submit"
                             value="Send"
                           />
-                          <div className="sub_loader"></div>
+                          {/* <div className="sub_loader"></div> */}
                         </div>
                       </form>
                     </li>

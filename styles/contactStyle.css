@@ -6,7 +6,7 @@
 
 /* -------------------------section1------------- */
 .parallaxwindowco {
-  background-image: url("../public/images/landing20.jpg");
+  background-image: url("/public/images/landing20.jpg");
   background-attachment: fixed;
   width: 100%;
   background-size: cover;
@@ -216,7 +216,7 @@
   margin-top: 20px;
 }
 
-.loaderco {
+/* .loaderco {
   position: absolute;
   left: 0px;
   top: 35px;
@@ -229,7 +229,7 @@
   opacity: 0.8;
   display: none;
   padding: 70px;
-}
+} */
 
 /* --------------------------------------------------------how-it-works----------------------------------------- */
 .wrapperhow {
